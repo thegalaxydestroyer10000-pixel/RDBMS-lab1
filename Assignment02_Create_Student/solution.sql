@@ -4,4 +4,4 @@ CREATE TABLE Student (
     DOB DATE NOT NULL,
     Gender VARCHAR(10) NOT NULL,
     DepartmentID INT(5) NOT NULL
-    ALTER TABLE Student
+
